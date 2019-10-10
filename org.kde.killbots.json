@@ -1,7 +1,7 @@
 {
     "id": "org.kde.killbots",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.12",
+    "runtime-version": "5.13",
     "sdk": "org.kde.Sdk",
     "command": "killbots",
     "rename-icon": "killbots",
@@ -20,8 +20,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/19.08.1/src/libkdegames-19.08.1.tar.xz",
-                    "sha256": "1b365627bd0a3a42a32a0a8d401b53d2ac09f0f9cf040b4b0483c5574991b774"
+                    "url": "https://download.kde.org/stable/applications/19.08.2/src/libkdegames-19.08.2.tar.xz",
+                    "sha256": "83456cec44502a1f79c0be00c983090e32fd8aea5fec1461fbfbd37b5f8866ac"
                 } 
             ]
         },
@@ -31,8 +31,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/19.08.1/src/killbots-19.08.1.tar.xz",
-                    "sha256": "16fb2338125d342166e630cf589a346a69874ea1da32c0a3c591d6e17241e05e"
+                    "url": "https://download.kde.org/stable/applications/19.08.2/src/killbots-19.08.2.tar.xz",
+                    "sha256": "c4407bf534dc9de604d6c169cf278b8cb9ca03055d96b71cbfe3916dbafea479"
                 }
             ]
         }
