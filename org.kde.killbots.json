@@ -20,8 +20,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/19.12.0/src/libkdegames-19.12.0.tar.xz",
-                    "sha256": "4498e462f248e44bbd7fe28e5c8a47d43cdd058e813c47e8fe228b8d2439ad1f"
+                    "url": "https://download.kde.org/stable/release-service/19.12.1/src/libkdegames-19.12.1.tar.xz",
+                    "sha256": "317513544e08d03b2381bdb4c0bcd24c844dd8af7ccc4896569dd05933061d9c"
                 } 
             ]
         },
@@ -31,8 +31,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/19.12.0/src/killbots-19.12.0.tar.xz",
-                    "sha256": "ccd9525b6f451c3d658ac2af70ef615ee99c72b9770a8a09cfb99a8653a1356d"
+                    "url": "https://download.kde.org/stable/release-service/19.12.1/src/killbots-19.12.1.tar.xz",
+                    "sha256": "3d524028e7df412e4306daf4e7b1aca803d26b65985fa429c98db10cffff010f"
                 }
             ]
         }
