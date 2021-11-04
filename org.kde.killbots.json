@@ -19,8 +19,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.08.2/src/libkdegames-21.08.2.tar.xz",
-                    "sha256": "077203df97c7b41b1f87d790a8107066d59b1fa65ae176320230b1120a246b49"
+                    "url": "https://download.kde.org/stable/release-service/21.08.3/src/libkdegames-21.08.3.tar.xz",
+                    "sha256": "2a10f38868cc52a09d6b8cbdf6f1e706e6b96b57d1e7817d610788abcc2b4c7b"
                 } 
             ]
         },
@@ -30,8 +30,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.08.2/src/killbots-21.08.2.tar.xz",
-                    "sha256": "60d41276f4c335dab5d34a9fddfdce4c0bf5ca8020d9ec84e9fffdcb4b9f8f85"
+                    "url": "https://download.kde.org/stable/release-service/21.08.3/src/killbots-21.08.3.tar.xz",
+                    "sha256": "e886908798d0d855d5bf5bdb0ff42c1fca37ce81d21b96ef56b06f7fb2218ad7"
                 }
             ]
         }
