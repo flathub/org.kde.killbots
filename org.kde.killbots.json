@@ -19,8 +19,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.04.2/src/libkdegames-22.04.2.tar.xz",
-                    "sha256": "c33af6c13540add132122b36b2faabc1f0beaf2c06d29e575f7789f1c5342911",
+                    "url": "https://download.kde.org/stable/release-service/22.04.3/src/libkdegames-22.04.3.tar.xz",
+                    "sha256": "f6af5b98c6f5a4061b5124d04e5cf0c2cc9e21df93824559153d5565d541f845",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -36,8 +36,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.04.2/src/killbots-22.04.2.tar.xz",
-                    "sha256": "f34d6607cbca47405e988418c5b365e9ef67840ff0d02dae766faddd4e6757a4",
+                    "url": "https://download.kde.org/stable/release-service/22.04.3/src/killbots-22.04.3.tar.xz",
+                    "sha256": "3281846b1fc53786c84c2a03ac51fe65293aa421c2226f2d5868834d9441531d",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
