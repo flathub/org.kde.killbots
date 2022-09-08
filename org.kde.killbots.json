@@ -36,8 +36,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.08.0/src/killbots-22.08.0.tar.xz",
-                    "sha256": "2fb3bde420ec00a4a4afc1ee7075b73dfffa7dcf5529f99e5c4b9c4176f62e99",
+                    "url": "https://download.kde.org/stable/release-service/22.08.1/src/killbots-22.08.1.tar.xz",
+                    "sha256": "6fa01cff8bbe297e8d1aa6e218e402a1affb7d88152b91a61137ce63904287d7",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
